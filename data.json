@@ -16,5 +16,24 @@
     "productTitle": "Chair",
     "vendorId": 84,
     "price": 230.0
+  },
+  {
+    "offerId": 126,
+    "productTitle": "Chair",
+    "vendorId": 84,
+    "price": 300.0
+  },
+  {
+    "offerId": 127,
+    "productTitle": "Chair",
+    "vendorId": 84,
+    "price": 210.0
+  },
+  {
+    "offerId": 125,
+    "productTitle": "Chair",
+    "vendorId": 84,
+    "price": 225.0
   }
 ]
+
